@@ -10,7 +10,7 @@ Desarrollador y QA con +12 años de experiencia en automatización, desarrollo f
 
 ## Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Estirp3&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ## Mis Estadísticas de GitHub
 
