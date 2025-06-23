@@ -10,7 +10,7 @@ Desarrollador y QA con +12 años de experiencia en automatización, desarrollo f
 
 ## Github Stats
 
-[![GitHub Streak](https://streak-stats.vercel.app?user=Estirp3&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.vercel.app?user=Estirp3&theme=gotham&hide_border=true&border_radius=4.8&locale=es&short_numbers=true&card_width=491)](https://git.io/streak-stats)
 
 ## Mis Estadísticas de GitHub
 
